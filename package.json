@@ -1,0 +1,25 @@
+{
+  "name": "DIDIssuerRP",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snakaya/DIDIssuerRP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snakaya/DIDIssuerRP/issues"
+  },
+  "homepage": "https://github.com/snakaya/DIDIssuerRP#readme",
+  "devDependencies": {
+    "@types/node": "^14.14.39",
+    "ts-node": "^9.1.1",
+    "typescript": "^4.2.4"
+  }
+}
